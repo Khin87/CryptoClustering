@@ -9,6 +9,6 @@ Technologies used in the analysis are:
 
 Scikit-learn machine learning tools for the unsupervised data analysis. Tools such as Cluster, StandardScaler, Preprocessing and KElbowVisualizer for Kmeans, Data Standarization, and Principal Component Analysis.
 
-Pandas, NumPy and Path libraries for general coding, hvPlot for visualizations 
+Pandas, NumPy and Path libraries for general coding, hvPlot for visualizations. 
 
 
